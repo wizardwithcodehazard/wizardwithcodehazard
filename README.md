@@ -106,17 +106,23 @@ I actively participate in hackathons and tech meetups, connecting with like-mind
 
 ---
 
+### 🐍 My Contributions
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/sahilrane">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://instagram.com/sahilrane._">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram" alt="Instagram Badge" />
-  </a>
-  <a href="mailto:sahil.17922@sakec.ac.in">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email Badge" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sahilrane)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://instagram.com/sahilrane._)
+[![X](https://img.shields.io/badge/X-blue?style=flat-square&logo=x)](https://x.com/sahilrane249)
+[![Linktree](https://img.shields.io/badge/Linktree-green?style=flat-square&logo=linktree)](https://linktr.ee/sahilrane)
+
+
+---
+### 🔢 My GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrane&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilrane&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
