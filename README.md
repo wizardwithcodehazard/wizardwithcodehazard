@@ -19,22 +19,7 @@ I'm currently pursuing **B.Tech** at the **University of Mumbai**, specializing 
 ### 🔭 Skills
 - **Programming Languages:** Python, C, HTML, CSS, JavaScript (currently learning React and Svelte), SQL
 - **Frameworks & Libraries:** Qiskit (Quantum Research), React, Web3, Svelte
-- **Tools:** Git, AI/ML Tools
-
----
-
-### 💼 Experience
-- **Web Developer** at E-Cell, IIT Bombay (Aug 2024 - Present)  
-  Contributing to the development and maintenance of the E-Cell website.
-  
-- **Contributor** at Timechain Labs (Jun 2024 - Present)  
-  Engaged in blockchain basics, Bitcoin Script, BSV transactions, smart contracts, and front-end development using Svelte and Tailwind. Recognized with the **Rookie Dev** badge.
-
-- **Prompt Engineer** at Skillible (Jul 2024 - Aug 2024)  
-  Worked on prompt engineering and generative AI tools.
-
-- **Technical Volunteer** at University of Mumbai (Jan 2024 - Mar 2024)  
-  Assisted in organizing the Annual Technical Symposium **AURUM'24**.
+- **Tools:** Git, AI/ML Tools.
 
 ---
 
@@ -127,5 +112,5 @@ I actively participate in hackathons and tech meetups, connecting with like-mind
 
 ---
 
-### 🌟 Fun Fact
-code is my canvas! 🎶
+### quote?
+code is my canvas! 
