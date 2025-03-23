@@ -4,7 +4,7 @@
   <img src="https://camo.githubusercontent.com/3cb0d1f2a127b7b2a059d13e9d7540782b794fa327bac2f58c420cf2c060cf49/68747470733a2f2f692e706f7374696d672e63632f6e4c667374785a7a2f522e676966" alt="Akira GIF" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AIML+Enthusiast+|+Perpetual+Learner+|+Blockchain+Explorer!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AIML+Enthusiast+|+Perpetual+Learner" />
 </p>
 
 <p align="left"> 
@@ -12,7 +12,7 @@
 </p>
 
 ### 🌟 About Me
-I'm currently pursuing **B.Tech** at the **University of Mumbai**, specializing in **AI, Machine Learning,** and **Data Science**. I thrive on exploring the world of **Web3 technology** while continuously enhancing my skills and knowledge. In my free time, I enjoy blogging.
+I'm currently pursuing **B.Tech** at the **University of Mumbai**, specializing in **AI, Machine Learning,** and **Data Science**. In my free time, I enjoy blogging.
 
 ---
 
