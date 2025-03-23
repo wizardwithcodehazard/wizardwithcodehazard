@@ -18,14 +18,9 @@ I'm currently pursuing **B.Tech** at the **University of Mumbai**, specializing 
 
 ### 🔭 Skills
 - **Programming Languages:** Python, C, HTML, CSS, JavaScript (currently learning React and Svelte), SQL
-- **Frameworks & Libraries:** Qiskit (Quantum Research), React, Web3, Svelte
+- **Frameworks & Libraries:** Qiskit (Quantum Research), React, Svelte
 - **Tools:** Git, AI/ML Tools.
-
----
-
-### 📚 Notable Projects
-- **Olympics Prediction Model:** Developed a predictive model for the 2024 Olympics winner using Data Science techniques.
-- **Quantum Research Project:** Conducted research on solving Schrödinger's time-independent equation using Qiskit.
+- **Data Analysis:** SQL, Tableau, Python, Excel, PowerBI
 
 ---
 
