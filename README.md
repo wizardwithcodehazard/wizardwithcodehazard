@@ -1,160 +1,297 @@
-<div align="center" >I'm Sahil! 
-</div>
-<div align="cen>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Code+Wizard+in+Training+%E2%9A%A1;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+# Sahil Rane
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/94927686/213793989-5c650f50-8368-4bda-a42d-3e810556469b.gif" width=100%>
-</div>
+**Research Analyst | AI/ML Engineer | Quantitative Finance Developer**
 
-## 🎯 About Me
-
-```python
-class Sahil:
-    def __init__(self):
-        self.name = "Sahil Rane"
-        self.location = "Mumbai, India 🇮🇳"
-        self.education = "B.Tech @ University of Mumbai"
-        self.passions = ["AI/ML", "Data Science", "Research", "Web Dev"]
-        self.current_focus = "Building intelligent systems"
-        self.fun_fact = "Code is my canvas! 🎨"
-    
-    def get_current_status(self):
-        return {
-            "learning": ["React", "Svelte", "ML"],
-            "working_on": "Nerdy Projects",
-            "collaborating": "Open source projects",
-            "looking_for": "Internship opportunities in AI/ML, Data Analytics, Data Science"
-        }
-```
-
-## 🚀 Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧠 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📊 Analytics & Business Intelligence
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🔬 Research & Learning</h3>
-        <ul>
-          <li>🧮 Data</li>
-          <li>⚛️ DSA</li>
-          <li>🎭 Low level programming</li>
-          <li>📈 Deep Learning Applications</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>🏆 Goals for 2025</h3>
-        <ul>
-          <li>🚀 Contribute to major open-source AI projects</li>
-          <li>📝 Publish research in quantum ML</li>
-          <li>💼 Land an AI/ML internship</li>
-          <li>🌐 Build full-stack AI applications</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wizardwithcodehazard&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wizardwithcodehazard&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardwithcodehazard&theme=algolia" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizardwithcodehazard&theme=react-dark&hide_border=true" />
-</div>
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
- 2x Hackathon Winner
-</div>
-
-
-## 🌊 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-## 🎭 Fun Zone
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-</div>
-
-<details>
-<summary>🎯 More About My Journey</summary>
-
-### 🌱 Learning Philosophy
-I believe in the power of continuous learning and hands-on experimentation. My approach combines theoretical understanding with practical implementation, especially in the rapidly evolving fields of AI and quantum computing.
-
-### 🔬 Research Interests
-- **Computer Vision**: Developing intelligent systems that can see and understand
-- **Natural Language Processing**: Building systems that understand human language
-- **Data Science**: Extracting insights from complex datasets
-
-### 🎲 Random Facts
-- 🧩 I love solving complex algorithmic puzzles
-- 📚 Avid reader
-- ☕ Coffee-powered coding sessions are my specialty
-</details>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
-</div>
-
-<div align="center">
-  <sub>💙 Open to collaborations | 📧 Reach out for AI/ML projects | 🌟 Let's build something amazing together!</sub>
-</div>
+Mumbai, India | [Email](mailto:sahilrane249@gmail.com) | [GitHub](https://github.com/wizardwithcodehazard) | [LinkedIn](https://linkedin.com/in/sahilrane)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wizardwithcodehazard&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wizardwithcodehazard?label=Followers&style=social" alt="GitHub Followers" />
-</div>
+## About
+
+10x Hackathon Winner specializing in research, low-level programming, computational systems, and core ML. Currently exploring Generative AI and quantitative finance with a focus on precision, performance, and real-world impact.
+
+Currently: Research Analyst at Deepcytes Cyberlabs (UK)
+
+---
+
+## Core Expertise
+
+**Languages:** Python, C++, C, SQL, HTML, CSS, JavaScript
+
+**AI/ML:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Qiskit
+
+**Frameworks & Tools:** FastAPI, Django, DevOps, Git, n8n, Groq API
+
+**Databases:** MySQL, MongoDB, Database Design & Optimization
+
+---
+
+## Featured Projects
+
+### Agentic AI & Form Intelligence
+
+#### [Clairis - Agentic AI Form Companion](https://github.com/wizardwithcodehazard/clairis)
+**Chrome Extension | TypeScript | Google Gemini | n8n**
+
+Standalone, serverless AI agent that transforms digital forms into natural, multimodal conversations. 100% local, privacy-first, offline-ready.
+
+- Agentic Decision Engine for real-time validation and OCR via Gemini Vision
+- Tone-adaptive follow-ups migrated from n8n to pure JavaScript
+- Multilingual support (Hindi, Tamil, Bengali, etc.)
+- Client-side vision extraction for ID/doc scanning
+- Local profile vault with chrome.storage
+
+---
+
+### Quantitative Finance & AI
+
+#### [QuantDevs - Options Pricing & AI Consultant](https://github.com/wizardwithcodehazard/OptionsPricingModel_QuantDevs)
+**Python | Numba | Groq API | NumPy | Matplotlib**
+
+Professional options pricing engine with institutional-grade Greeks calculation and AI-powered consulting.
+
+- American Binomial Model with Numba JIT optimization (sub-100ms execution)
+- EWMA volatility forecasting with ensemble modeling
+- IV Rank-based trading signals
+- LLaMA-3.3-70B AI consultant explaining trades in professional Indian English
+- Institutional backtesting with Sharpe, Sortino, and Drawdown metrics
+- 3D surfaces, IV smiles, P&L heatmaps
+
+Key Achievement: Won Hackathon with quantitative finance focus
+
+#### [Portfolio Orchestration - QuantDevs](https://github.com/wizardwithcodehazard/PortfolioOrch_QuantDevs)
+**Python | Advanced Portfolio Management**
+
+Portfolio optimization and orchestration system for multi-asset allocation strategies.
+
+#### [OptionsModel - QuantDevs (C++)](https://github.com/wizardwithcodehazard/OptionsModel-QuantDevs)
+**C++ | High-Performance Computing**
+
+High-performance C++ implementation of options pricing with emphasis on computational efficiency.
+
+---
+
+### Advanced Machine Learning Research
+
+#### [Advaita-Chit - Metacognitive AI Framework](https://github.com/wizardwithcodehazard/Advaita-Chita)
+**Python | PyTorch | HMM | IIT | Qwen-2.5**
+
+Experimental metacognitive feedback loop on Qwen-2.5-1.5B architecture. Test-Time Adaptation enabling dynamic logit control through HMM-driven entropy modulation.
+
+- Shakti-Vimarsha Loop: Real-time latent state steering
+- Three cognitive modes: Jagrat (Logic), Swapna (Creative), Sushupti (Reflective)
+- Integrated Information Theory (IIT) metric implementation
+- Cognitive trajectory visualization
+
+---
+
+### Cybersecurity & Education
+
+#### [CySafe - Cyber Security Awareness Platform](https://github.com/wizardwithcodehazard/CySafe)
+**Django | Python | Bootstrap 5 | PostgreSQL**
+
+Comprehensive Django-based cybersecurity information and reporting platform designed to protect Indian citizens from cyber threats. Powered by DeepCytes AI intelligence.
+
+- Cyber crime database with detailed threat descriptions
+- Trending crimes based on user engagement
+- Educational content with view tracking
+- Admin panel for content management
+- Responsive design with interactive learning
+
+**Team Lead Role:** Coordinated frontend and full-stack development
+
+#### [CySafe DevOps - Deployment Pipeline](https://github.com/wizardwithcodehazard/CySafe_Devops)
+**JavaScript | DevOps | CI/CD**
+
+Complete DevOps pipelining for CySafe deployment infrastructure.
+
+---
+
+### Spatio-Temporal Analysis
+
+#### [Spatio-Temporal Aviation Risk Engine](https://github.com/wizardwithcodehazard/Spatio-Temporal_Aviation_Risk_Engine)
+**JavaScript | Geospatial Analysis**
+
+Advanced risk assessment engine for aviation operations using spatio-temporal data analysis.
+
+---
+
+### Open Source & Research
+
+#### [Foundations of AIML](https://github.com/wizardwithcodehazard/Foundations-of-AIML)
+Comprehensive notes and implementations for AI/ML fundamentals.
+
+#### [Markov - GPU-Accelerated Markov Chain Library](https://github.com/wizardwithcodehazard/markov)
+**Python | GPU Acceleration**
+
+GPU-accelerated Markov chain library leveraging GPUs that don't support ROCM or CUDA. Optimized computation for probabilistic systems.
+
+#### [OpenHack MarkovDevs](https://github.com/wizardwithcodehazard/OpenHack_MarkovDevs)
+**Python | Hackathon Project**
+
+---
+
+### Web Development & Applications
+
+#### [CampusIQ](https://github.com/wizardwithcodehazard/CampusIQ)
+**TypeScript | Modern Web Stack**
+
+Campus management and intelligent campus operations system.
+
+#### [Baymax - AI Voice Assistant Extension](https://github.com/wizardwithcodehazard/baymax)
+**JavaScript | Voice AI**
+
+Browser extension enabling AI voice assistant capabilities for web applications.
+
+#### [GitWrite - Freewriting with GitHub Storage](https://github.com/wizardwithcodehazard/gitwrite)
+**JavaScript | GitHub API**
+
+Freewriting application with direct GitHub storage functionality. Combine creative writing with version control.
+
+#### [E-Cell Blog](https://github.com/wizardwithcodehazard/rawecellblogpage1)
+**JavaScript | React | E-Cell SAKEC**
+
+Designed and maintained E-Cell Blog website, enhancing UX/UI with modern web technologies.
+
+#### [Ode Wizard - Poetry Portfolio](https://github.com/wizardwithcodehazard/odewizard)
+**CSS | Creative Writing**
+
+Personal website showcasing poetry and creative writing.
+
+---
+
+### Fintech & Data Science
+
+#### [TrendGate](https://github.com/wizardwithcodehazard/TrendGate)
+**Python | Data Analysis**
+
+Trend analysis and financial data forecasting system.
+
+#### [CodeCrusaders - AI EdTech Platform](https://github.com/wizardwithcodehazard/CodeCrusaders_OpenInnovation_v0)
+**Python | Educational AI**
+
+AI-powered educational technology platform for personalized learning experiences.
+
+---
+
+### Data Visualization & Analytics
+
+#### [Airlines Review Analysis - Tableau](https://github.com/wizardwithcodehazard/Airlines-Review-Data-Visualization-Using-Tableau)
+**Tableau | Data Visualization**
+
+Comprehensive visualization of airline customer sentiment and review patterns.
+
+#### [Airbnb Tableau Project](https://github.com/wizardwithcodehazard/AIRBNB_Tableau-Project)
+**Tableau | Business Intelligence**
+
+Detailed BI analysis and visualization of Airbnb market trends.
+
+#### [Multi-Classification Data Analysis](https://github.com/wizardwithcodehazard/Multi-classification-Data-Analysis)
+**Jupyter Notebook | Machine Learning**
+
+Multi-class classification implementation and analysis with statistical evaluation.
+
+---
+
+### Specialized Research
+
+#### [Computational Neuroscience & Quantum Computing for ADHD Decision-Making](https://github.com/wizardwithcodehazard/Computational-Neuroscience-Quantum-Computing-for-ADHD-Decision-Making)
+**C | Quantum Computing | Neuroscience**
+
+Research combining quantum computing principles with computational neuroscience for decision-making analysis.
+
+#### [Perceptron Model Implementation](https://github.com/wizardwithcodehazard/Building-a-Perceptron-Model-Using-Data-Structure-Using-C)
+**Jupyter Notebook | Core ML**
+
+Low-level perceptron implementation emphasizing data structures and algorithmic foundations.
+
+---
+
+### Hackathon Projects
+
+#### [CyberDevs - AMUHACKS 5.0](https://github.com/wizardwithcodehazard/CyberDevs_AMUHACKS5.0)
+**TypeScript | Hackathon**
+
+Academic bridge project for AMUHACKS 5.0. Bridging academic knowledge with practical cybersecurity applications.
+
+#### [ENIGMA - DevSmashers](https://github.com/wizardwithcodehazard/ENIGMA_DevSmashers)
+**HTML | Encryption & Security**
+
+---
+
+### Extended Repository Collections
+
+Additional projects include GhostMesh (Python), GhostMesh1 (Python), Freewrites storage, and more specialized tools.
+
+View all 40+ repositories on [GitHub Profile](https://github.com/wizardwithcodehazard?tab=repositories)
+
+---
+
+## Education
+
+**University of Mumbai** - B.Tech Information Technology (2023-2027)
+CGPA: 8.6
+
+**Ramnarain Ruia College** - Pre-University in Electronics (2021-2023)
+
+---
+
+## Certifications
+
+- CS50 Database, Harvard University (Apr 2025)
+- Google Analytics Certified (Jul 2024)
+- C Programming Specialization, Duke University (Jun 2024)
+- Python for Data Analysis, freeCodeCamp (Jun 2024)
+- Responsive Web Design Certification, freeCodeCamp (Jun 2024)
+
+---
+
+## Professional Experience
+
+### Research Analyst
+**Deepcytes Cyberlabs (UK)** | Jul 2025 - Dec 2025
+
+- Contributed to CMS platform development for cyber intelligence operations
+- Conducting comprehensive research on emerging cyber threats and attack vectors
+- Analyzing threat intelligence data for proactive security measures
+
+### Web Developer
+**E-Cell, SAKEC** | Jul 2024 - Jul 2025
+
+- Designed and maintained E-Cell Blog website using React and modern web technologies
+- Enhanced UX/UI with responsive, accessible design
+
+---
+
+## Achievements
+
+- 10x Hackathon Winner
+- AURUM'24 Symposium Technical Coordinator
+- Technical Volunteer at SAKEC's TechExpo & Hackathon
+- Published research on quantum ML applications
+- 40+ Open source repositories with focus on AI/ML and quantitative computing
+
+---
+
+## Technical Focus Areas
+
+1. **Agentic AI Systems** - Building autonomous agents with real-time decision engines
+2. **Quantitative Finance** - Options pricing, Greeks calculation, portfolio optimization
+3. **Advanced ML Research** - Metacognitive systems, latent state manipulation, entropy control
+4. **Cybersecurity Intelligence** - Threat analysis, risk assessment, cyber awareness
+5. **GPU Acceleration & Performance** - Numba JIT, computational optimization
+6. **Low-Level Programming** - C/C++ systems programming, algorithmic foundations
+
+---
+
+## Open to Collaboration
+
+Specializing in AI/ML projects, quantitative finance applications, research partnerships, and full-stack development. Interested in internship opportunities in AI/ML, Data Analytics, and Data Science.
+
+Contact: [sahilrane249@gmail.com](mailto:sahilrane249@gmail.com)
+
+---
+
+**Profile Views:** [![Profile Views](https://komarev.com/ghpvc/?username=wizardwithcodehazard&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/wizardwithcodehazard)
+
+**GitHub Followers:** [![GitHub Followers](https://img.shields.io/github/followers/wizardwithcodehazard?label=Followers&style=social)](https://github.com/wizardwithcodehazard)
