@@ -1,11 +1,30 @@
-# Sahil Rane
+<div align="center">
 
-**Research Analyst | AI/ML Engineer | Quantitative Finance Developer**
+# Sahil Rane / साहिल राणे
 
-Mumbai, India | [Email](mailto:sahilrane249@gmail.com) | [GitHub](https://github.com/wizardwithcodehazard) | [LinkedIn](https://linkedin.com/in/sahilrane8/)
+<img src="https://giffiles.alphacoders.com/190/190422.gif" width="100%"/>
+
+### Research • AI/ML • Quant Finance • Systems Programming
+
+<pre>
+Building intelligent systems, low-level tech, data science projects and whatever that catches my curiosity.
+</pre>
+
+> “It's not that we have a short time to live. it's that we waste much of it. Life is long if
+you know how to use it. Most of us spend it in distraction or the pursuit of
+things that don't really matter, as if we were going to live forever.
+We act as mortals in all we fear and immortals in all we desire.”
+> 
+> — Seneca, *On the Shortness of Life*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilrane8/)
+[![Poetry](https://img.shields.io/badge/Poetry-black?style=for-the-badge)](https://odewizard.pages.dev/)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/sahilrane/)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sahilrane./)
+[![Mail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrane249@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=wizardwithcodehazard&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
-
-**Profile Views:** [![Profile Views](https://komarev.com/ghpvc/?username=wizardwithcodehazard&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/wizardwithcodehazard)
-
-**GitHub Followers:** [![GitHub Followers](https://img.shields.io/github/followers/wizardwithcodehazard?label=Followers&style=social)](https://github.com/wizardwithcodehazard)
