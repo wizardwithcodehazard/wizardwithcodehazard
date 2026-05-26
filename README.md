@@ -4,7 +4,7 @@
 
 <img src="https://giffiles.alphacoders.com/190/190422.gif" width="100%"/>
 
-### Research • AI/ML • Quant Finance • Systems Programming
+### Research • AI/ML • Quant Finance • Backend Engineering
 
 <pre>
 Building intelligent systems, low-level tech, data science projects and whatever that catches my curiosity.
